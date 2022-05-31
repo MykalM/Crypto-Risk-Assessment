@@ -10,7 +10,7 @@ Technologies used are: Python, Terminal, CoingeckoAPI,
 ## Usage
 
 ## Contributors
-Mykal Morton
-Jay Wiley
-Jeremy Pierce
+Mykal Morton,
+Jay Wiley,
+Jeremy Pierce,
 Vicky Lee
