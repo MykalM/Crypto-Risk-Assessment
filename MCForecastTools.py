@@ -29,7 +29,7 @@ class MCSimulation:
         
     """
     
-    def __init__(self, portfolio_data, weights="", num_simulation=1000, num_trading_days=356):
+    def __init__(self, portfolio_data, weights="", num_simulation=1000, num_trading_days=252):
         """
         Constructs all the necessary attributes for the MCSimulation object.
 
