@@ -27,14 +27,14 @@ def run_questions():
     if risk_level == "Low: I am willing to accept lower returns to minimize the risk of losing money.":
         for p in low_risk_portfolio:
             low_risk_portfolio [p] *=int(investment_amount)
-        print(low_risk_portfolio)
+        return low_risk_portfolio
     elif risk_level == "Medium: I want moderate returns but I don't want to be exposed to high levels of risk.":
         for p in med_risk_portfolio:
             med_risk_portfolio [p] *=int(investment_amount)
-        print(med_risk_portfolio)
+        return med_risk_portfolio
     else:     
         for p in high_risk_portfolio:
             high_risk_portfolio [p] *=int(investment_amount)
-        print(high_risk_portfolio)
+        return high_risk_portfolio
 if __name__=='__main__':
     fire.Fire(run_questions)
