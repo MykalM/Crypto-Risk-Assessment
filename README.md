@@ -1,10 +1,7 @@
 # README
 ## Background
 
-**Crypto Portfolio Analyzer**, This application uses an interactve command line interface to collect investment information from the user; it then recomends a cryptocurrency portfolio based on risk levels, and by analyzing real-time data using API calls.  This Crypto porfolio analyzer is an innovative addition in the fintech industry. We want to offer optimized cryptocurrency porfolios to everyone, even those who lack the financial knowledge and understanding of cryptocurrencies. We plan to build additional features into this like linking to cryptocurrency wallets,and buying/selling with a cryptocurrency trading bot using machine learning.
-
-I've provided data visualization skills, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities.
-
+**Crypto Portfolio Analyzer**, This application uses an interactive command line interface to collect investment information from the user; it then recomends a cryptocurrency portfolio based on risk levels, and by analyzing real-time data using API calls.  This Crypto porfolio analyzer is an innovative addition to the fintech industry. We want to offer optimized cryptocurrency porfolios to everyone, even those who lack the financial knowledge and understanding of cryptocurrencies. We plan to build additional features into this like the ability to link to cryptocurrency wallets, and buying/selling with a cryptocurrency trading bot using machine learning.
 
 
 ## Table of Contents
@@ -81,3 +78,6 @@ I added the pictures from the notepook and manual load it in the readme.
     * 
 
 **File:** [San Fransisco Real Estate Market Analysis](/san_francisco_housing.ipynb)
+
+## Contributors
+Mykal Morton, Vicky Lee, Jay Wiley, Jeremy Pierce.
