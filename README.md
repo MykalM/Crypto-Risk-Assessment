@@ -1,7 +1,7 @@
-# EXAMPLE README
+# README
 ## Background
 
-**Proptech**, the application of technology to real-estate markets, is an innovative domain in the fintech industry. we want to offer an instant, one-click service for people to buy properties and then rent them. I've trial of this offering in the San Francisco real-estate market. If the service proves popular, we can then expand to other markets.
+**Crypto Portfolio Analyzer**, This application uses an interactve command line interface to collect investment information from the user; it then recomends a cryptocurrency portfolio based on risk levels, and by analyzing real-time data using API calls.  This Crypto porfolio analyzer is an innovative addition in the fintech industry. We want to offer optimized cryptocurrency porfolios to everyone, even those who lack the financial knowledge and understanding of cryptocurrencies. We plan to build additional features into this like linking to cryptocurrency wallets,and buying/selling with a cryptocurrency trading bot using machine learning.
 
 I've provided data visualization skills, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities.
 
