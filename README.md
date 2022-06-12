@@ -77,16 +77,10 @@ Careful usage of this functionality can enhance our users ability to make inform
 
 ## 4. Back-End Functionality
 
-![5](./Images/geoviews_plot.png)
+![5](./Images/Low_Risk_Portfolio.png)
+![5](./Images/Screen Shot 2022-06-09 at 4.40.23 PM.png)
 
-* Read the `neighborhood_coordinates.csv` file from the `Resources` folder into the notebook, and create a DataFrame named `neighborhood_locations_df`. 
-* Be sure to set the `index_col` of the DataFrame as “Neighborhood”.
-* Using the original `sfo_data_df` Dataframe, create a DataFrame named `all_neighborhood_info_df` that groups the data by neighborhood. 
-* Aggregate the results by the `mean` of the group.
-* Review the two code cells that concatenate the `neighborhood_locations_df` DataFrame with the `all_neighborhood_info_df` DataFrame. 
-* Using hvPlot with GeoViews enabled, create a `points` plot for the `all_neighborhoods_df` DataFrame. 
-* Use the interactive map to answer the following question: 
-    * Which neighborhood has the highest gross rent, and which has the highest sale price per square foot?
+The following portions of code demonstrate how we use historical data to project possible portfolio returns.
 
 ## 5. Compose the Data Story
 
