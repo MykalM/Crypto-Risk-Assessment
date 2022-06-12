@@ -60,7 +60,7 @@
 
 ## 3. Simulation Trajectories
 
-* The output python script is located here **File:** [MC Database](/mc_database.ipynb.py)
+* The output python script is located here **File:** [MC Database](./mc_database.ipynb.py)
 
 These clips demonstrate the simulator running on our pre-selected portfolio data.
 Careful usage of this functionality can enhance our users ability to make informed long term portfolio selections.
@@ -73,14 +73,7 @@ Careful usage of this functionality can enhance our users ability to make inform
 
 ---
 
-* Create a new DataFrame that groups the original DataFrame by year and neighborhood. Aggregate the results by the `mean` of the groups.
-* Filter out the “housing_units” column to create a DataFrame that includes only the `sale_price_sqr_foot` and `gross_rent` averages per year.
-* Create an interactive line plot with hvPlot that visualizes both `sale_price_sqr_foot` and `gross_rent`. 
-* Set the x-axis parameter to the year (`x="year"`). 
-* Use the `groupby` parameter to create an interactive widget for `neighborhood`.
-* Style and format the line plot to ensure a professionally styled visualization.
-    * For the Anza Vista neighborhood, is the average sale price per square foot for 2016 more or less than the price that’s listed for 2012?
-    ![3](./Images/Anza.png)
+
 
 ## 4. Back-End Functionality
 
@@ -97,12 +90,10 @@ Careful usage of this functionality can enhance our users ability to make inform
 
 ## 5. Compose the Data Story
 
-* Based on the visualizations that you created, answer the following questions:
-    * How does the trend in rental income growth compare to the trend in sales prices? Does this same trend hold true for all the neighborhoods across San Francisco?
-    * What insights can you share with your company about the potential one-click, buy-and-rent strategy that they're pursuing? Do neighborhoods exist that you would suggest for investment, and why?
-    * 
+We are giving the average person the opportunity to invest into cryptocurrency without the high-risk crypto is associated with. Our portfolios are designed to minimize long-term risk while benefiting from the accumulated growth of Bitcoin, Ethereum, Litecoin, and other leading cryptocurrencies.
+Tired of hearing about stocks that already made investors a lot of money? Our Crypto Porfolio Advisor picks top value stocks with strong long-term growth potential.
 
-**File:** [San Fransisco Real Estate Market Analysis](/san_francisco_housing.ipynb)
+Utilizing real-time data users will have access to their own personal crypto advisor at the palm of their hands, or on their computer.
 
 ## Contributors
 Mykal Morton, Vicky Lee, Jay Wiley, Jeremy Pierce.
