@@ -9,11 +9,11 @@
 
 2. [Calculate and Plot the output from the CLI.](#2-Calculate-and-Plot-the-output-from-the-CLI)
 
-3. [Compare the average prices by neighborhood.](#3-compare-the-average-sale-prices-by-neighborhood)
+3. [Simulation Trajectories.](#3-Simulation-Trajectories)
 
-4. [Build an interactive neighborhood map.](#4-build-an-interactive-neighborhood-map)
+4. [Back-End Functionality.](#4-Back-End-Functionality)
 
-5. [Compose your data story.](#5-compose-your-data-story)
+5. [Compose the data story.](#5-compose-the-data-story)
 
 ---
 
@@ -21,7 +21,7 @@
 
 ![1](./Images/Recording%202022-06-08%20at%2020.20.03.gif)
 
-* The CLI python script is located here **File:** [Crypto Porfolio](/appy2.py)
+* The CLI python script is located here **File:** [Crypto Porfolio CLI](/appy2.py)
 * Aggregate the results by the `mean` of the groups.
 * Use the `hvplot` function to plot the `housing_units_by_year` DataFrame as a bar chart. 
 * Make the x-axis represent the `year` and the y-axis represent the `housing_units`.
@@ -31,6 +31,8 @@
   
 
 ## 2. Calculate and Plot the output from the CLI
+
+* The output python script is located here **File:** [Crypto Results Porfolio](/results.py)
 
  ![2](./Images/Screen%20Shot%202022-06-09%20at%201.46.14%20PM.png))
 * Group the data by year, and then average the results. 
@@ -68,7 +70,7 @@
 * Use the interactive map to answer the following question: 
     * Which neighborhood has the highest gross rent, and which has the highest sale price per square foot?
 
-## 5. Compose Your Data Story
+## 5. Compose the Data Story
 
 * Based on the visualizations that you created, answer the following questions:
     * How does the trend in rental income growth compare to the trend in sales prices? Does this same trend hold true for all the neighborhoods across San Francisco?
