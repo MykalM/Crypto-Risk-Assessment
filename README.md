@@ -1,11 +1,11 @@
 # README
 ## Background
 
-**Crypto Portfolio Analyzer**, This application uses an interactive command line interface to collect investment information from the user; it then recomends a cryptocurrency portfolio based on risk levels, and by analyzing real-time data using API calls.  This Crypto porfolio analyzer is an innovative addition to the fintech industry. We want to offer optimized cryptocurrency porfolios to everyone, even those who lack the financial knowledge and understanding of cryptocurrencies. We plan to build additional features into this like the ability to link to cryptocurrency wallets, and buying/selling with a cryptocurrency trading bot using machine learning.
+**Smart exposure to digital currencies**, This application uses an interactive command line interface to collect investment information from the user; it then recomends a cryptocurrency portfolio based on risk levels, and by analyzing real-time data using API calls.  This Crypto porfolio analyzer is an innovative addition to the fintech industry. We want to offer optimized cryptocurrency porfolios to everyone, even those who lack the financial knowledge and understanding of cryptocurrencies. We plan to build additional features into this like the ability to link to cryptocurrency wallets, and buying/selling with a cryptocurrency trading bot using machine learning.
 
 
 ## Table of Contents
-1. [Calculate and plot the housing units per year.](#1-calculate-and-plot-the-housing-units-per-year)
+1. [Front-end Interface](#1-calculate-and-plot-the-housing-units-per-year)
 
 2. [Calculate and plot the average prices per square foot.](#2-calculate-and-plot-the-average-sale-prices-per-square-foot)
 
