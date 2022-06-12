@@ -5,7 +5,7 @@
 
 
 ## Table of Contents
-1. [Front-end Interface](#1-calculate-and-plot-the-housing-units-per-year)
+1. [Front-end Interface](#1-Front-end-Interface)
 
 2. [Calculate and plot the average prices per square foot.](#2-calculate-and-plot-the-average-sale-prices-per-square-foot)
 
@@ -15,16 +15,9 @@
 
 5. [Compose your data story.](#5-compose-your-data-story)
 
-- - - 
+---
 
-**IMPORTANT:** 
-I added the pictures from the notepook and manual load it in the readme.
-* My visual plots can be viewed in [Images](./Images/)
-* The rest of the code is in the the **File:** [San Fransisco Real Estate Market Analysis](/san_francisco_housing.ipynb)
-
-- - - 
-
-## 1. Calculate and Plot the Housing Units per Year
+## 1. Front-end Interface
 
 * Use the `groupby` function to group the data by year. 
 * Aggregate the results by the `mean` of the groups.
@@ -32,6 +25,7 @@ I added the pictures from the notepook and manual load it in the readme.
 * Make the x-axis represent the `year` and the y-axis represent the `housing_units`.
 * Style and format the line plot to ensure a professionally styled visualization.
     * What’s the overall trend in housing units over the period that you’re analyzing?
+    
     ![1](./Images/Recording%202022-06-08%20at%2020.20.03.gif)
 
 ## 2. Calculate and Plot the Average Sale Prices per Square Foot
@@ -45,7 +39,7 @@ I added the pictures from the notepook and manual load it in the readme.
 * Style and format the line plot to ensure a professionally styled visualization.
     * Did any year experience a drop in the average sale price per square foot compared to the previous year?
         * If so, did the gross rent increase or decrease during that year?
-        ![2](./Images/avg_sale_price_gross_rent.png)
+        ![2](./Images/new%20fast%20playbac.mov)
 
 ## 3. Compare the Average Sale Prices by Neighborhood
 
