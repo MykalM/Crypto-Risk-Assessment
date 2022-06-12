@@ -60,7 +60,7 @@
 
 ## 3. Simulation Trajectories
 
-* The output python script is located here **File:** [MC Database](./mc_database.ipynb.py)
+* The output python script is located here **File:** [MC Database](.//mc_database.ipynb)
 
 These clips demonstrate the simulator running on our pre-selected portfolio data.
 Careful usage of this functionality can enhance our users ability to make informed long term portfolio selections.
