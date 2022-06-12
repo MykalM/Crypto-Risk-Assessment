@@ -78,7 +78,7 @@ Careful usage of this functionality can enhance our users ability to make inform
 ## 4. Back-End Functionality
 
 ![5](./Images/Low_Risk_Portfolio.png)
-![6](./Images/Screen Shot 2022-06-09 at 4.40.23 PM.png)
+![6](./Images/Screen%20Shot%202022-06-09%20at%204.40.23%20PM.png)
 
 The following portions of code demonstrate how we use historical data to project possible portfolio returns.
 
