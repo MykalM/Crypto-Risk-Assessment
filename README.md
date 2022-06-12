@@ -44,7 +44,7 @@
         * If so, did the gross rent increase or decrease during that year?
 
 
-## 3. Compare the Average Sale Prices by Neighborhood
+## 3. Simulation Trajectories
 
 * Create a new DataFrame that groups the original DataFrame by year and neighborhood. Aggregate the results by the `mean` of the groups.
 * Filter out the “housing_units” column to create a DataFrame that includes only the `sale_price_sqr_foot` and `gross_rent` averages per year.
@@ -55,7 +55,7 @@
     * For the Anza Vista neighborhood, is the average sale price per square foot for 2016 more or less than the price that’s listed for 2012?
     ![3](./Images/Anza.png)
 
-## 4. Build an Interactive Neighborhood Map
+## 4. Back-End Functionality
 
 ![4](./Images/geoviews_plot.png)
 
