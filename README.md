@@ -7,7 +7,7 @@
 ## Table of Contents
 1. [Front-end Interface](#1-Front-end-Interface)
 
-2. [Calculate and plot the average prices per square foot.](#2-calculate-and-plot-the-average-sale-prices-per-square-foot)
+2. [Calculate and Plot the output from the CLI.](#2-Calculate-and-Plot-the-output-from-the-CLI)
 
 3. [Compare the average prices by neighborhood.](#3-compare-the-average-sale-prices-by-neighborhood)
 
@@ -30,7 +30,7 @@
     
   
 
-## 2. Calculate and Plot the Average Sale Prices per Square Foot
+## 2. Calculate and Plot the output from the CLI
 
  ![2](./Images/Screen%20Shot%202022-06-09%20at%201.46.14%20PM.png))
 * Group the data by year, and then average the results. 
