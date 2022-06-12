@@ -22,11 +22,7 @@
 ![1](./Images/Recording%202022-06-08%20at%2020.20.03.gif)
 
 * The CLI python script is located here **File:** [Crypto Porfolio CLI](/appy2.py)
-* Aggregate the results by the `mean` of the groups.
-* Use the `hvplot` function to plot the `housing_units_by_year` DataFrame as a bar chart. 
-* Make the x-axis represent the `year` and the y-axis represent the `housing_units`.
-* Style and format the line plot to ensure a professionally styled visualization.
-    * What’s the overall trend in housing units over the period that you’re analyzing?
+* If then statement was built to personlize the type of investment to user wanted
     
   
 
@@ -45,7 +41,18 @@
 * The website used for gather crypto data
    * alternative
    
-* Create a new DataFrame named `prices_square_foot_by_year` by filtering out the “housing_units” column.
+* Create a new DataFrame named `stocks_dataframe` by creating these columns and display the appropiate date.
+   * Coins	
+   * Symbol	
+   * Category	
+   * Price	
+   * 24Hr Volume	Market Caplization	
+   * 1hr % Change	
+   * 24hrs %Change	
+   * 7days %Change	
+   * Sharpe Ratio	
+   * Variance
+   
 * The new DataFrame should include the averages per year for only the sale price per square foot and the gross rent.
 * Use hvPlot to plot the `prices_square_foot_by_year` DataFrame as a line plot.
 * This single plot will include lines for both `sale_price_sqr_foot` and `gross_rent`.
