@@ -21,7 +21,7 @@
 
 ![1](./Images/Recording%202022-06-08%20at%2020.20.03.gif)
 
-* Use the `groupby` function to group the data by year. 
+* The CLI python script is located here **File:** [Crypto Porfolio](/appy2.py)
 * Aggregate the results by the `mean` of the groups.
 * Use the `hvplot` function to plot the `housing_units_by_year` DataFrame as a bar chart. 
 * Make the x-axis represent the `year` and the y-axis represent the `housing_units`.
