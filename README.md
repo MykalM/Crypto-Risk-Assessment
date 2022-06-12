@@ -32,7 +32,7 @@ I added the pictures from the notepook and manual load it in the readme.
 * Make the x-axis represent the `year` and the y-axis represent the `housing_units`.
 * Style and format the line plot to ensure a professionally styled visualization.
     * What’s the overall trend in housing units over the period that you’re analyzing?
-    ![1](./Images/housing_units_by_year.png)
+    ![1](./Images/Recording%202022-06-08%20at%2020.20.03.gif)
 
 ## 2. Calculate and Plot the Average Sale Prices per Square Foot
 
