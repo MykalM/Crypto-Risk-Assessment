@@ -53,12 +53,9 @@
    * Sharpe Ratio	
    * Variance
    
-* The new DataFrame should include the averages per year for only the sale price per square foot and the gross rent.
-* Use hvPlot to plot the `prices_square_foot_by_year` DataFrame as a line plot.
-* This single plot will include lines for both `sale_price_sqr_foot` and `gross_rent`.
-* Style and format the line plot to ensure a professionally styled visualization.
-    * Did any year experience a drop in the average sale price per square foot compared to the previous year?
-        * If so, did the gross rent increase or decrease during that year?
+* Bar chart was created with predetermined currencies 
+* The % this portfolio has made within 1 year period
+* The line graph that shows how much money that would have been made if the user invested 1 year prior
 
 
 ## 3. Simulation Trajectories
