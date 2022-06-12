@@ -63,6 +63,19 @@
 
 ## 3. Simulation Trajectories
 
+* The output python script is located here **File:** [MC Database](/mc_database.ipynb.py)
+
+These clips demonstrate the simulator running on our pre-selected portfolio data.
+Careful usage of this functionality can enhance our users ability to make informed long term portfolio selections.
+
+![3](./Images/MC-low_risk.gif)
+
+---
+
+![4](./Images/MC-Plot.gif)
+
+---
+
 * Create a new DataFrame that groups the original DataFrame by year and neighborhood. Aggregate the results by the `mean` of the groups.
 * Filter out the “housing_units” column to create a DataFrame that includes only the `sale_price_sqr_foot` and `gross_rent` averages per year.
 * Create an interactive line plot with hvPlot that visualizes both `sale_price_sqr_foot` and `gross_rent`. 
@@ -74,7 +87,7 @@
 
 ## 4. Back-End Functionality
 
-![4](./Images/geoviews_plot.png)
+![5](./Images/geoviews_plot.png)
 
 * Read the `neighborhood_coordinates.csv` file from the `Resources` folder into the notebook, and create a DataFrame named `neighborhood_locations_df`. 
 * Be sure to set the `index_col` of the DataFrame as “Neighborhood”.
