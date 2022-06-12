@@ -35,8 +35,16 @@
 * The output python script is located here **File:** [Crypto Results Porfolio](/results.py)
 
  ![2](./Images/Screen%20Shot%202022-06-09%20at%201.46.14%20PM.png))
-* Group the data by year, and then average the results. 
-* What’s the lowest gross rent that’s reported for the years that the DataFrame includes?
+* API used on this project are as follows
+   * yfinance
+   * sqlalchemy
+   * requests
+   * datetime
+   * statistics 
+   
+* The website used for gather crypto data
+   * alternative
+   
 * Create a new DataFrame named `prices_square_foot_by_year` by filtering out the “housing_units” column.
 * The new DataFrame should include the averages per year for only the sale price per square foot and the gross rent.
 * Use hvPlot to plot the `prices_square_foot_by_year` DataFrame as a line plot.
