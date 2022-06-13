@@ -42,16 +42,17 @@
    * alternative
    
 * Create a new DataFrame named `stocks_dataframe` by creating these columns and display the appropiate date.
-   * Coins	
-   * Symbol	
-   * Category	
-   * Price	
-   * 24Hr Volume	Market Caplization	
-   * 1hr % Change	
-   * 24hrs %Change	
-   * 7days %Change	
-   * Sharpe Ratio	
-   * Variance
+   * `Coins`	
+   * `Symbol`	
+   * `Category`	
+   * `Price`	
+   * `24Hr Volume`
+   * `Market Caplization`	
+   * `1hr % Change`	
+   * `24hrs %Change`	
+   * `7days %Change`	
+   * `Sharpe Ratio`	
+   * `Variance`
    
 * Bar chart was created with predetermined currencies 
 * The % this portfolio has made within 1 year period
