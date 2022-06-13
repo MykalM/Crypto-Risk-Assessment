@@ -32,11 +32,11 @@
 
  ![2](./Images/Screen%20Shot%202022-06-09%20at%201.46.14%20PM.png))
 * API used on this project are as follows
-   * yfinance
-   * sqlalchemy
-   * requests
-   * datetime
-   * statistics 
+   * `yfinance`
+   * `sqlalchemy`
+   * `requests`
+   * `datetime`
+   * `statistics` 
    
 * The website used for gather crypto data
    * alternative
